@@ -1,0 +1,2425 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-09-02T07:50:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120860023",
+        "building": "yes",
+        "name": "RA Gapuz Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9507086,
+              15.4599212
+            ],
+            [
+              120.9507773,
+              15.4598913
+            ],
+            [
+              120.9508512,
+              15.4600491
+            ],
+            [
+              120.9507825,
+              15.460079
+            ],
+            [
+              120.9507086,
+              15.4599212
+            ]
+          ]
+        ]
+      },
+      "id": "way/120860023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179242937",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "building": "school",
+        "name": "INRESS Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9879574,
+              14.6024393
+            ],
+            [
+              120.987745,
+              14.6020254
+            ],
+            [
+              120.9881519,
+              14.6018375
+            ],
+            [
+              120.9883557,
+              14.6022514
+            ],
+            [
+              120.9879574,
+              14.6024393
+            ]
+          ]
+        ]
+      },
+      "id": "way/179242937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179242938",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "building": "school",
+        "name": "Alcorcorn Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9877361,
+              14.6025471
+            ],
+            [
+              120.987522,
+              14.6021279
+            ],
+            [
+              120.98773,
+              14.6020282
+            ],
+            [
+              120.9879442,
+              14.6024475
+            ],
+            [
+              120.9877361,
+              14.6025471
+            ]
+          ]
+        ]
+      },
+      "id": "way/179242938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179244173",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "building": "commercial",
+        "name": "Excel Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9880605,
+              14.6035622
+            ],
+            [
+              120.9879362,
+              14.6032802
+            ],
+            [
+              120.9880397,
+              14.6032374
+            ],
+            [
+              120.9880657,
+              14.6032963
+            ],
+            [
+              120.98809,
+              14.6033515
+            ],
+            [
+              120.9881641,
+              14.6035195
+            ],
+            [
+              120.9880605,
+              14.6035622
+            ]
+          ]
+        ]
+      },
+      "id": "way/179244173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179244179",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "review_center",
+        "building": "commercial",
+        "name": "Review Innovations"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.98809,
+              14.6033515
+            ],
+            [
+              120.9880657,
+              14.6032963
+            ],
+            [
+              120.9880397,
+              14.6032374
+            ],
+            [
+              120.9883329,
+              14.6031064
+            ],
+            [
+              120.9883898,
+              14.6032211
+            ],
+            [
+              120.9883041,
+              14.6032568
+            ],
+            [
+              120.9882914,
+              14.6032299
+            ],
+            [
+              120.9881711,
+              14.6032833
+            ],
+            [
+              120.9881835,
+              14.6033094
+            ],
+            [
+              120.98809,
+              14.6033515
+            ]
+          ]
+        ]
+      },
+      "id": "way/179244179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179244185",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "building": "school",
+        "isced:level": "4",
+        "name": "Professional Review Inst. of Mech Eng."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9885369,
+              14.6033546
+            ],
+            [
+              120.9884938,
+              14.6033185
+            ],
+            [
+              120.9883979,
+              14.6032383
+            ],
+            [
+              120.9883898,
+              14.6032211
+            ],
+            [
+              120.9883329,
+              14.6031064
+            ],
+            [
+              120.9887116,
+              14.6029151
+            ],
+            [
+              120.9887932,
+              14.6030654
+            ],
+            [
+              120.9885369,
+              14.6033546
+            ]
+          ]
+        ]
+      },
+      "id": "way/179244185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179246642",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "building": "school",
+        "name": "East-West Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9906816,
+              14.6008489
+            ],
+            [
+              120.9906111,
+              14.6007015
+            ],
+            [
+              120.9907099,
+              14.6006572
+            ],
+            [
+              120.9907804,
+              14.6008046
+            ],
+            [
+              120.9906816,
+              14.6008489
+            ]
+          ]
+        ]
+      },
+      "id": "way/179246642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180161944",
+        "addr:city": "Bacoor",
+        "addr:postcode": "4102",
+        "addr:street": "E. Evangelista Road",
+        "amenity": "school",
+        "name": "Ruther Esconde Tutorial School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9359771,
+              14.4588069
+            ],
+            [
+              120.936038,
+              14.4584738
+            ],
+            [
+              120.9361787,
+              14.458498
+            ],
+            [
+              120.9361178,
+              14.4588311
+            ],
+            [
+              120.9359771,
+              14.4588069
+            ]
+          ]
+        ]
+      },
+      "id": "way/180161944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183695616",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "addr:street": "Florentino Cayco",
+        "building": "yes",
+        "name": "CPA Review School of the Philippines (CPAR)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9920086,
+              14.6077435
+            ],
+            [
+              120.9922031,
+              14.6079123
+            ],
+            [
+              120.9920862,
+              14.6080386
+            ],
+            [
+              120.9918916,
+              14.6078698
+            ],
+            [
+              120.9920086,
+              14.6077435
+            ]
+          ]
+        ]
+      },
+      "id": "way/183695616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/242564993",
+        "addr:street": "Imus Avenue",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Excel First Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.9022851,
+              10.303036
+            ],
+            [
+              123.9023293,
+              10.3025926
+            ],
+            [
+              123.9024486,
+              10.3027578
+            ],
+            [
+              123.9024134,
+              10.3029146
+            ],
+            [
+              123.9023823,
+              10.3030534
+            ],
+            [
+              123.9023701,
+              10.3030532
+            ],
+            [
+              123.9022851,
+              10.303036
+            ]
+          ]
+        ]
+      },
+      "id": "way/242564993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244931634",
+        "amenity": "kindergarten",
+        "name": "St. Isidore Tutorial House"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.5689558,
+              14.9950794
+            ],
+            [
+              120.5689035,
+              14.9949163
+            ],
+            [
+              120.5689518,
+              14.9949012
+            ],
+            [
+              120.5690024,
+              14.9950651
+            ],
+            [
+              120.5689558,
+              14.9950794
+            ]
+          ]
+        ]
+      },
+      "id": "way/244931634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249444134",
+        "building": "yes",
+        "name": "typhone: reviewed = yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.0873148,
+              11.5383846
+            ],
+            [
+              123.0872642,
+              11.5383378
+            ],
+            [
+              123.0873148,
+              11.5382856
+            ],
+            [
+              123.0873682,
+              11.5383489
+            ],
+            [
+              123.0873148,
+              11.5383846
+            ]
+          ]
+        ]
+      },
+      "id": "way/249444134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/259940408",
+        "area": "yes",
+        "name": "Experts Guide Tutor Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.073245,
+              14.6406537
+            ],
+            [
+              121.0731864,
+              14.6406401
+            ],
+            [
+              121.0731238,
+              14.6406255
+            ],
+            [
+              121.073021,
+              14.6406016
+            ],
+            [
+              121.0729382,
+              14.6405824
+            ],
+            [
+              121.0730225,
+              14.6404082
+            ],
+            [
+              121.0732266,
+              14.6404924
+            ],
+            [
+              121.073245,
+              14.6406537
+            ]
+          ]
+        ]
+      },
+      "id": "way/259940408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/272821409",
+        "addr:city": "Zamboanga",
+        "addr:postcode": "7000",
+        "addr:street": "N.S. Valderosa",
+        "amenity": "school",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "RN International Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.0768844,
+              6.9040507
+            ],
+            [
+              122.076859,
+              6.9040645
+            ],
+            [
+              122.0768304,
+              6.9040144
+            ],
+            [
+              122.0770906,
+              6.9038693
+            ],
+            [
+              122.0771361,
+              6.9039558
+            ],
+            [
+              122.0769042,
+              6.9040861
+            ],
+            [
+              122.0768844,
+              6.9040507
+            ]
+          ]
+        ]
+      },
+      "id": "way/272821409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304043720",
+        "addr:city": "davao City",
+        "addr:postcode": "8000",
+        "addr:street": "Ilustre Street",
+        "building": "commercial",
+        "name": "St. Luis Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.6062765,
+              7.0701419
+            ],
+            [
+              125.6061961,
+              7.0702354
+            ],
+            [
+              125.6060413,
+              7.0701043
+            ],
+            [
+              125.6061216,
+              7.0700108
+            ],
+            [
+              125.6062765,
+              7.0701419
+            ]
+          ]
+        ]
+      },
+      "id": "way/304043720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315838579",
+        "amenity": "school",
+        "ele": "80.0999984741211",
+        "name": "Bagong Pag-asa Tutorial Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0777926,
+              5.8984893
+            ],
+            [
+              125.077875,
+              5.8984752
+            ],
+            [
+              125.0778797,
+              5.8985023
+            ],
+            [
+              125.0779426,
+              5.8984915
+            ],
+            [
+              125.077949,
+              5.8985283
+            ],
+            [
+              125.0778037,
+              5.8985531
+            ],
+            [
+              125.0777926,
+              5.8984893
+            ]
+          ]
+        ]
+      },
+      "id": "way/315838579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317477135",
+        "addr:city": "Tagbilaran City",
+        "addr:postcode": "6300",
+        "addr:street": "Calceta",
+        "building": "school",
+        "name": "CENTER BASED SPED TUTORIAL & LIFE SKILLS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              123.8593306,
+              9.654379
+            ],
+            [
+              123.8593261,
+              9.6542731
+            ],
+            [
+              123.8593456,
+              9.6542715
+            ],
+            [
+              123.8593431,
+              9.6542495
+            ],
+            [
+              123.8594417,
+              9.6542403
+            ],
+            [
+              123.8594486,
+              9.6542295
+            ],
+            [
+              123.8594323,
+              9.6542139
+            ],
+            [
+              123.8594773,
+              9.654158
+            ],
+            [
+              123.8594907,
+              9.6541703
+            ],
+            [
+              123.859496,
+              9.6541607
+            ],
+            [
+              123.8594932,
+              9.6541084
+            ],
+            [
+              123.8596087,
+              9.6541064
+            ],
+            [
+              123.859612,
+              9.6542039
+            ],
+            [
+              123.8595808,
+              9.6542415
+            ],
+            [
+              123.8596156,
+              9.6542735
+            ],
+            [
+              123.8595353,
+              9.6543562
+            ],
+            [
+              123.8595167,
+              9.6543442
+            ],
+            [
+              123.8594932,
+              9.654371
+            ],
+            [
+              123.8593306,
+              9.654379
+            ]
+          ]
+        ]
+      },
+      "id": "way/317477135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/354418983",
+        "amenity": "school",
+        "building": "commercial",
+        "isced:level": "4",
+        "name": "C.A.R.T.S Review Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.990249,
+              14.603264
+            ],
+            [
+              120.9902701,
+              14.6032059
+            ],
+            [
+              120.9904626,
+              14.6032671
+            ],
+            [
+              120.9904433,
+              14.6033248
+            ],
+            [
+              120.990249,
+              14.603264
+            ]
+          ]
+        ]
+      },
+      "id": "way/354418983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479203180",
+        "addr:street": "D. Silang",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0583266,
+              13.7592896
+            ],
+            [
+              121.0583354,
+              13.7591796
+            ],
+            [
+              121.0584974,
+              13.7592084
+            ],
+            [
+              121.0585012,
+              13.7592732
+            ],
+            [
+              121.0583673,
+              13.7592638
+            ],
+            [
+              121.0583655,
+              13.7592947
+            ],
+            [
+              121.0583407,
+              13.7592947
+            ],
+            [
+              121.0583266,
+              13.7592896
+            ]
+          ]
+        ]
+      },
+      "id": "way/479203180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183991589",
+        "highway": "residential",
+        "name": "Kumon Street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.0637945,
+            15.9651947
+          ],
+          [
+            121.0637273,
+            15.9647202
+          ],
+          [
+            121.0636604,
+            15.9641039
+          ],
+          [
+            121.0636041,
+            15.9635623
+          ],
+          [
+            121.0635342,
+            15.9631626
+          ],
+          [
+            121.0638213,
+            15.9630801
+          ]
+        ]
+      },
+      "id": "way/183991589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/420027759",
+        "addr:city": "San Pablo",
+        "addr:postcode": "4000",
+        "addr:street": "Apolinario Mabini",
+        "addr:street:corner": "Dizon",
+        "amenity": "tutoring",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3243445,
+          14.07414
+        ]
+      },
+      "id": "node/420027759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436086698",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.505562,
+          7.089363
+        ]
+      },
+      "id": "node/436086698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/656178653",
+        "amenity": "school",
+        "name": "NASANRO Tutorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6147764,
+          7.1032548
+        ]
+      },
+      "id": "node/656178653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/696288951",
+        "addr:city": "Cainta",
+        "addr:postcode": "1900",
+        "addr:province": "Rizal",
+        "amenity": "school",
+        "name": "Celadon Tutorial Center",
+        "note": "20-MAR-10 1:40:43PM",
+        "source": "rally & andre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1057485,
+          14.6211768
+        ]
+      },
+      "id": "node/696288951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/899101428",
+        "amenity": "kindergarten",
+        "name": "Kumon Center Ormoc City",
+        "url": "http://ph.kumonglobal.com/page.jsp?id=2228&center_id=3764&country_flag=ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6012392,
+          11.0144395
+        ]
+      },
+      "id": "node/899101428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014463865",
+        "addr:province": "Rizal",
+        "amenity": "kindergarten",
+        "name": "St. Clare Learning and Tutorial Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1146377,
+          14.6750621
+        ]
+      },
+      "id": "node/1014463865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1242794712",
+        "amenity": "school",
+        "name": "Apple tree tutorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6198227,
+          7.0831524
+        ]
+      },
+      "id": "node/1242794712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1247183760",
+        "amenity": "kindergarten",
+        "name": "Brain Bouwer Tutorial Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6087574,
+          7.0770987
+        ]
+      },
+      "id": "node/1247183760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1354113637",
+        "name": "RA Gapuz Review Center",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9507729,
+          15.459981
+        ]
+      },
+      "id": "node/1354113637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763096110",
+        "amenity": "school",
+        "name": "Kumon Learning Center",
+        "sym": "School",
+        "time": "2012-05-23T11:23:51Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3300407,
+          16.0321485
+        ]
+      },
+      "id": "node/1763096110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1765032349",
+        "amenity": "school",
+        "name": "Geolenmar Tutorial Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5911551,
+          7.0608707
+        ]
+      },
+      "id": "node/1765032349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887618870",
+        "amenity": "school",
+        "name": "Kumon Macasandig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6455416,
+          8.4686275
+        ]
+      },
+      "id": "node/1887618870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962817822",
+        "amenity": "school",
+        "name": "Kumon 5th Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9840135,
+          14.6458466
+        ]
+      },
+      "id": "node/1962817822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2162410818",
+        "amenity": "school",
+        "name": "Advance Tutorial Center",
+        "source": "docsam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5970364,
+          7.0643144
+        ]
+      },
+      "id": "node/2162410818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2189333882",
+        "addr:street": "Kisad Road",
+        "amenity": "school",
+        "branch": "Baguio",
+        "name": "Pentagon Review Specialists Inc",
+        "source": "phototag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.595436,
+          16.402879
+        ]
+      },
+      "id": "node/2189333882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2418669598",
+        "amenity": "kindergarten",
+        "name": "Angel's House Adaptive Intervention & Tutorial Center",
+        "source": "docsam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6172014,
+          7.1023145
+        ]
+      },
+      "id": "node/2418669598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2427913970",
+        "addr:city": "Taytay",
+        "addr:postcode": "1920",
+        "addr:province": "Rizal",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1360502,
+          14.5597333
+        ]
+      },
+      "id": "node/2427913970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2444081385",
+        "addr:city": "Taytay",
+        "addr:postcode": "1920",
+        "addr:province": "Rizal",
+        "amenity": "school",
+        "name": "Manila East Training and Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1352206,
+          14.5583038
+        ]
+      },
+      "id": "node/2444081385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2483244532",
+        "addr:city": "San Pablo",
+        "addr:postcode": "4000",
+        "addr:street": "Arsenio Escudero",
+        "name": "Sir Dencio's Tutorial and Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3259784,
+          14.0727658
+        ]
+      },
+      "id": "node/2483244532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2755413767",
+        "amenity": "school",
+        "name": "Earn Child Tutorial Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2358668,
+          14.8840712
+        ]
+      },
+      "id": "node/2755413767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2756957680",
+        "amenity": "school",
+        "name": "Besavilla Review Center",
+        "source": "Benta Serbisyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5808576,
+          16.4110539
+        ]
+      },
+      "id": "node/2756957680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2816515149",
+        "amenity": "school",
+        "name": "Kumon Learning Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9635517,
+          14.6972741
+        ]
+      },
+      "id": "node/2816515149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2816897298",
+        "name": "RA Gapuz Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0795322,
+          6.9160414
+        ]
+      },
+      "id": "node/2816897298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2888379139",
+        "amenity": "school",
+        "brand": "Kumon Learning Center",
+        "name": "KUMON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3011286,
+          9.3199905
+        ]
+      },
+      "id": "node/2888379139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2949169989",
+        "addr:city": "Cebu",
+        "addr:housenumber": "16th floor Metrobank Plaza Building",
+        "addr:postcode": "6000",
+        "email": "desk@jroozreview.com",
+        "name": "JROOZ Review Center",
+        "note": "- IELTS, TOEFL, NPTE, PT Local Board",
+        "office": "yes",
+        "phone": "+63 32 266 2822 | +63 32 236 6726 | +63917-8657669 | +63917-8257669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8940664,
+          10.308577
+        ]
+      },
+      "id": "node/2949169989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3044754769",
+        "amenity": "school",
+        "name": "Kumon Malolos City Study Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8045964,
+          14.8503371
+        ]
+      },
+      "id": "node/3044754769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3052919975",
+        "addr:city": "Plaridel",
+        "amenity": "school",
+        "name": "Kumon Learning Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8614232,
+          14.8713732
+        ]
+      },
+      "id": "node/3052919975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3191198317",
+        "amenity": "school",
+        "name": "Headstart Tutorial & Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.080971,
+          14.6793714
+        ]
+      },
+      "id": "node/3191198317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3232454753",
+        "name": "MathHub Tutorials"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0742661,
+          14.6372132
+        ]
+      },
+      "id": "node/3232454753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3278120229",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8815978,
+          11.7740861
+        ]
+      },
+      "id": "node/3278120229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3304331769",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.124627,
+          14.2724935
+        ]
+      },
+      "id": "node/3304331769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3313368753",
+        "amenity": "school",
+        "name": "Complete Engineering and Review Center Iloilo (CERTC)",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5616202,
+          10.7000171
+        ]
+      },
+      "id": "node/3313368753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325003430",
+        "name": "Kumon Xavier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6232836,
+          8.4511953
+        ]
+      },
+      "id": "node/3325003430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376469945",
+        "amenity": "training",
+        "name": "RTR Review Center for Teachers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8824426,
+          11.7712334
+        ]
+      },
+      "id": "node/3376469945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571126210",
+        "building": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5369814,
+          14.6802669
+        ]
+      },
+      "id": "node/3571126210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3601520347",
+        "building": "school",
+        "name": "9.0 Niners Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9880884,
+          14.604823
+        ]
+      },
+      "id": "node/3601520347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3601525458",
+        "amenity": "school",
+        "contact:phone": "736-0966",
+        "isced:level": "4",
+        "name": "Besavilla Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9884871,
+          14.6054179
+        ]
+      },
+      "id": "node/3601525458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3601539682",
+        "amenity": "school",
+        "isced:level": "4",
+        "name": "ICSEC-KAPLAN Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9887107,
+          14.6054985
+        ]
+      },
+      "id": "node/3601539682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3601624703",
+        "amenity": "school",
+        "isced:level": "4",
+        "name": "Review Center For Allied Professions (RCAP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9884086,
+          14.6032137
+        ]
+      },
+      "id": "node/3601624703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3602068961",
+        "addr:city": "Manila",
+        "addr:street": "A. Tolentino",
+        "amenity": "school",
+        "isced:level": "4",
+        "name": "ACES Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9886505,
+          14.6062661
+        ]
+      },
+      "id": "node/3602068961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3602068962",
+        "addr:city": "Manila",
+        "addr:street": "A. Tolentino",
+        "amenity": "school",
+        "isced:level": "4",
+        "name": "Powerline Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9886123,
+          14.6063131
+        ]
+      },
+      "id": "node/3602068962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3712267534",
+        "addr:city": "Davao City",
+        "addr:housenumber": "Ground Floor Line Q Building",
+        "addr:postcode": "8000",
+        "addr:street": "Corner Kawayan Drive, McArthur Highway",
+        "name": "Good Sign Tutorial Driving Academy (Matina Branch)",
+        "office": "company",
+        "phone": "+63 (82) 296-0335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5762032,
+          7.0554709
+        ]
+      },
+      "id": "node/3712267534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3833749235",
+        "addr:city": "Panglao",
+        "addr:housenumber": "Purok 5, Daorong",
+        "addr:postcode": "6340",
+        "addr:street": "Danao",
+        "education": "Scarlett's English Tutorial",
+        "name": "Scarlett's English Tutorial Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7570921,
+          9.5552381
+        ]
+      },
+      "id": "node/3833749235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4003588214",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0042228,
+          11.0490006
+        ]
+      },
+      "id": "node/4003588214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4038264671",
+        "amenity": "school",
+        "level": "3",
+        "name": "Padilla-Gig Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5980613,
+          16.419794
+        ]
+      },
+      "id": "node/4038264671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4041869816",
+        "amenity": "kindergarten",
+        "name": "Kumon 2nd floor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9980185,
+          14.2834273
+        ]
+      },
+      "id": "node/4041869816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4108966595",
+        "addr:housenumber": "Room 204-205",
+        "addr:street": "A. Tolentino",
+        "amenity": "school",
+        "email": "esplanareviewcenter@ymail.com",
+        "name": "Esplana Engineering Review Center (EERC)",
+        "opening_hours": "Mo-Sa 9:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9886001,
+          14.6062202
+        ]
+      },
+      "id": "node/4108966595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4133393689",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1608552,
+          16.4902932
+        ]
+      },
+      "id": "node/4133393689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4200072989",
+        "addr:street": "Phase 4 Blk. 18 Lot 33 Eastwood Residence, San Isidro, Rodriquez, Rizal",
+        "amenity": "school",
+        "email": "teacherjeancastillo@gmail.com",
+        "name": "Teacher Jean's Tutorial Services",
+        "phone": "+639286625902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1597127,
+          14.7517872
+        ]
+      },
+      "id": "node/4200072989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269676793",
+        "amenity": "school",
+        "name": "Review School of Accountants (ReSA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9885826,
+          14.6032385
+        ]
+      },
+      "id": "node/4269676793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310277189",
+        "amenity": "school",
+        "name": "Prime Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.988505,
+          14.603153
+        ]
+      },
+      "id": "node/4310277189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4318026289",
+        "amenity": "school",
+        "name": "Student's Haven Tutorial and Learning Center",
+        "phone": "(046) 434-7365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9258656,
+          14.4491595
+        ]
+      },
+      "id": "node/4318026289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320365265",
+        "amenity": "school",
+        "name": "Carl Balita Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9891641,
+          14.6057605
+        ]
+      },
+      "id": "node/4320365265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327623890",
+        "addr:street": "Pabayo",
+        "amenity": "school",
+        "name": "Best Minds Review Specialist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6447237,
+          8.4755077
+        ]
+      },
+      "id": "node/4327623890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336908994",
+        "amenity": "school",
+        "name": "Professional Review and Training Center (PRTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9887313,
+          14.6011014
+        ]
+      },
+      "id": "node/4336908994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340933169",
+        "amenity": "school",
+        "name": "HP Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9053632,
+          10.309751
+        ]
+      },
+      "id": "node/4340933169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4356843094",
+        "addr:street": "Purok Riverside, Ramon Magsaysay st",
+        "amenity": "school",
+        "name": "SMYRNA Baptist Christian Academy & Tutorial Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4471028,
+          7.8254748
+        ]
+      },
+      "id": "node/4356843094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445342786",
+        "name": "Kumon Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5503306,
+          16.6887098
+        ]
+      },
+      "id": "node/4445342786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4474394490",
+        "addr:street": "J. Cabarrus",
+        "amenity": "school",
+        "name": "Eureka Tutorial Center",
+        "name:en": "Eureka Tutorial Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0270974,
+          14.447888
+        ]
+      },
+      "id": "node/4474394490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497546790",
+        "amenity": "school",
+        "name": "St. Augustine Review Center",
+        "name:en": "St. Augustine Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6385338,
+          12.4991429
+        ]
+      },
+      "id": "node/4497546790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510126693",
+        "amenity": "school",
+        "name": "Manila Integated Review School (MIRS)",
+        "name:en": "Manila Integated Review School (MIRS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0134679,
+          14.6022774
+        ]
+      },
+      "id": "node/4510126693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547191491",
+        "addr:housenumber": "5/f RM 501",
+        "addr:street": "M. J. Cuenco Avenue",
+        "amenity": "school",
+        "name": "Complete Engineering Review and Training Center (CERTC)",
+        "name:en": "Complete Engineering Review and Training Center (CERTC)",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Jiovanni Quiseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9054559,
+          10.2950683
+        ]
+      },
+      "id": "node/4547191491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593508893",
+        "amenity": "school",
+        "name": "Complete Engineering Review and Training Center",
+        "name:acronym": "CERTC",
+        "name:en": "Complete Engineering Review and Training Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.561548,
+          10.6998324
+        ]
+      },
+      "id": "node/4593508893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4608985190",
+        "amenity": "school",
+        "name": "Kumon",
+        "name:en": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5807078,
+          7.0865362
+        ]
+      },
+      "id": "node/4608985190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4733471223",
+        "addr:street": "Mabini",
+        "amenity": "school",
+        "name": "CRC-ACE CPA Review School",
+        "name:en": "CRC-ACE CPA Review School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5963376,
+          16.4128485
+        ]
+      },
+      "id": "node/4733471223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821784321",
+        "amenity": "school",
+        "name": "CRC ACE Review Center",
+        "name:en": "CRC ACE Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9884561,
+          14.605391
+        ]
+      },
+      "id": "node/4821784321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4895435923",
+        "amenity": "school",
+        "name": "Kumon",
+        "name:en": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9606821,
+          14.1154082
+        ]
+      },
+      "id": "node/4895435923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907496749",
+        "addr:city": "Binangonan",
+        "addr:street": "Manila East Road",
+        "amenity": "school",
+        "name": "Kumon Binangonan Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1816847,
+          14.4919929
+        ]
+      },
+      "id": "node/4907496749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4950689421",
+        "addr:street": "Galicia",
+        "amenity": "school",
+        "name": "JPT Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.990832,
+          14.6064652
+        ]
+      },
+      "id": "node/4950689421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994711721",
+        "addr:street": "Quezon St",
+        "amenity": "school",
+        "name": "Iloilo Review School for CPA's",
+        "name:en": "Iloilo Review School for CPA's",
+        "opening_hours": "Mo-Sa 08:00-12:00, 13:30-17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5660312,
+          10.701126
+        ]
+      },
+      "id": "node/4994711721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5008914715",
+        "club": "motorcycle",
+        "name": "Jerick \"kamikaze\" Enopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1870117,
+          14.5458937
+        ]
+      },
+      "id": "node/5008914715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013946822",
+        "amenity": "school",
+        "name": "9.0 Niner IELTS Review",
+        "name:en": "9.0 Niner IELTS Review"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9882787,
+          14.5769305
+        ]
+      },
+      "id": "node/5013946822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013947521",
+        "amenity": "school",
+        "name": "Niner IELTS Review Center",
+        "name:en": "Niner IELTS Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0013141,
+          14.5370785
+        ]
+      },
+      "id": "node/5013947521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5037084300",
+        "addr:city": "Calamba",
+        "addr:housename": "SQA Corporate Center",
+        "addr:postcode": "4027",
+        "addr:street": "National Highway",
+        "amenity": "school",
+        "level": "3",
+        "name": "9.0 Niner IELTS Review and Tutorial Center",
+        "website": "https://www.facebook.com/90-Niner-IELTS-Calamba-Branch-1622646641335122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1549211,
+          14.2062744
+        ]
+      },
+      "id": "node/5037084300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055327221",
+        "name": "Myrtle review center",
+        "name:en": "Myrtle review center",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9056757,
+          10.2955504
+        ]
+      },
+      "id": "node/5055327221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080658923",
+        "amenity": "school",
+        "name": "RA Gapuz Review Center",
+        "name:en": "RA Gapuz Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.596841,
+          16.4199326
+        ]
+      },
+      "id": "node/5080658923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5105226823",
+        "amenity": "training",
+        "name": "My Piano Tutor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0009694,
+          14.2894348
+        ]
+      },
+      "id": "node/5105226823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232438921",
+        "amenity": "school",
+        "name": "Padilla Gig Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9885158,
+          14.6062118
+        ]
+      },
+      "id": "node/5232438921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5237278239",
+        "club": "motorcycle",
+        "description": "Motorcycle club, skills development and mamawness federation",
+        "name": "Jerick Enopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1870117,
+          14.5458937
+        ]
+      },
+      "id": "node/5237278239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5350685623",
+        "amenity": "kindergarten",
+        "name": "Kumon",
+        "operator": "Atty. Emma Ferenal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0862464,
+          7.0050778
+        ]
+      },
+      "id": "node/5350685623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5360301424",
+        "addr:postcode": "2315",
+        "addr:street": "Pineda Street",
+        "amenity": "training",
+        "name": "Capas Tutorial Learning Center",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5893444,
+          15.3319121
+        ]
+      },
+      "id": "node/5360301424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460529522",
+        "amenity": "school",
+        "name": "Carl Balita Review Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5960447,
+          15.4868951
+        ]
+      },
+      "id": "node/5460529522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5501373992",
+        "amenity": "school",
+        "name": "Gem-B Review and Tutorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.987175,
+          16.1686913
+        ]
+      },
+      "id": "node/5501373992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5651791626",
+        "addr:housenumber": "590",
+        "addr:postcode": "1900",
+        "addr:street": "Sto Domingo",
+        "name": "Chard's Enopia Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1117288,
+          14.5853388
+        ]
+      },
+      "id": "node/5651791626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5662152121",
+        "addr:street": "Donato Pison Avenue",
+        "amenity": "school",
+        "name": "EAR Math & Science Review & Tutorial Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5511245,
+          10.7093349
+        ]
+      },
+      "id": "node/5662152121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721412221",
+        "amenity": "school",
+        "name": "Besavilla Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8626527,
+          10.2958247
+        ]
+      },
+      "id": "node/5721412221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721412225",
+        "amenity": "school",
+        "name": "Gillesania Engineering Review Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8796826,
+          10.3132379
+        ]
+      },
+      "id": "node/5721412225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5750533214",
+        "amenity": "school",
+        "name": "Kumon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0428613,
+          14.5742595
+        ]
+      },
+      "id": "node/5750533214"
+    }
+  ]
+}
